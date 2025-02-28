@@ -1,7 +1,3 @@
 User-agent: *
-Allow: /
-Disallow: /class/
-Disallow: /page/
-Disallow: /pang/
-Disallow: /tags/
+Disallow: /
 Sitemap: https://test.brain-hole.org/sitemap.xml
